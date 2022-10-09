@@ -3,22 +3,22 @@
 
 The Universal Century timeline in the Mobile Suit Gundam franchise / The Universal Century is the main timeline in the Gundam franchise. There are multiple timelines in the franchise but the Universal Century is the main timeline that derives from the first show and has the most continuity.
 
-abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
-
+The Universal Century spans across multiple shows and movies and this is the chronological order of watching them.
 
 ## U.C. 0079
-The year **U.C. 0079** is the setting for the first *Mobile Suit Gundam* (1979) show. Amuro Ray pilots the [RX-78-2 Gundam](https://gundam.fandom.com/wiki/RX-78-2_Gundam). There are multiple other stories that take place in **U.C. 0079** including [*Mobile Suit Gundam: The 08th MS Team*](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_The_08th_MS_Team), and [*Mobile Suit Gundam: Thunderbolt*](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Thunderbolt).
+The year **U.C. 0079** is the setting for the first *Mobile Suit Gundam* (1979) show. Amuro Ray pilots the [RX-78-2 Gundam](https://gundam.fandom.com/wiki/RX-78-2_Gundam) in the one year war against zeon. There are multiple other stories that take place in **U.C. 0079** including [*Mobile Suit Gundam: The 08th MS Team*](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_The_08th_MS_Team), and [*Mobile Suit Gundam: Thunderbolt*](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Thunderbolt).
 
 ### U.C. 0080-83
 The years **U.C. 0080-83** have multiple side stories that explain the events between *Mobile Suit Gundam* and *Mobile Suit Zeta Gundam* including [*Mobile Suit Gundam 0080: War in the Pocket*](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_0080:_War_in_the_Pocket) and [*Mobile Suit Gundam 0083: Stardust Memory*](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory). These stories are not essential for the main timeline.
 
 ## U.C. 0087-88
-The year **U.C. 0087** is the setting for the *Mobile Suit Zeta Gundam* (1985) show. *Mobile Suit Zeta Gundam* takes place 8 years after the first *Mobile Suit Gundam* show. Kamille Bidan pilots the [MSZ-006 Zeta Gundam](https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam).
+The year **U.C. 0087** is the setting for the *Mobile Suit Zeta Gundam* (1985) show. *Mobile Suit Zeta Gundam* takes place 8 years after the first *Mobile Suit Gundam* show. Kamille Bidan pilots the [MSZ-006 Zeta Gundam](https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam) in the Battle of Gryps against the titans.
 
-The year **U.C. 0088** is the setting for the *Mobile Suit Gundam ZZ* (1986) show. *Mobile Suit Gundam ZZ* takes place immediately after the *Mobile Suit Zeta Gundam* show. Judau Ashta pilots the [MSZ-010 ZZ Gundam](https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam).
+The year **U.C. 0088** is the setting for the *Mobile Suit Gundam ZZ* (1986) show. *Mobile Suit Gundam ZZ* takes place immediately after the *Mobile Suit Zeta Gundam* show. Judau Ashta pilots the [MSZ-010 ZZ Gundam](https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam) in the neo zeon war.
 
 ## U.C. 0093
-The year **U.C. 0093** is the setting for the *Mobile Suit Gundam: Char's Counterattack* (1988) movie. *Mobile Suit Gundam: Char's Counterattack* takes place 5 years after *Mobile Suit Gundam ZZ*. Amuro Ray pilots the [RX-93 V Gundam](https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam). The height of the Universal Century, a turning point in the timeline that will impact stories further down the timeline.
+The year **U.C. 0093** is the setting for the *Mobile Suit Gundam: Char's Counterattack* (1988) movie. *Mobile Suit Gundam: Char's Counterattack* takes place 5 years after *Mobile Suit Gundam ZZ*. Amuro Ray pilots the [RX-93 V Gundam](https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam) in the second neo zeon war led by Char. The height of the Universal Century, a turning point in the timeline that will impact stories further down the timeline.
+
 ![chars](https://blog.alltheanime.com/wp-content/uploads/2019/06/char-2.jpg)
 
 ## U.C. 0096-97
